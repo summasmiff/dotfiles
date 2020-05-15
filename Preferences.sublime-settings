@@ -1,0 +1,45 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
+	"defaultLineEnding": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		"_build"
+	],
+	"font_face": "Fantasque Sans Mono",
+	"font_size": 17,
+	"font_style": "italic",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"linters":
+	{
+		"eslint":
+		{
+			"env":
+			{
+				"PATH": "/usr/local/bin/"
+			}
+		}
+	},
+	"node_modules_path": "/usr/local/lib/node_modules",
+	"node_path": "/usr/local/bin",
+	"rulers":
+	[
+		80,
+		90
+	],
+	"smart_indent": true,
+	"status_bar_brighter": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "Afterglow-green.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
